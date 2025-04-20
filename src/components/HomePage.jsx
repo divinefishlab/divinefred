@@ -9,6 +9,8 @@ import Moments from './Moments';
 import RickBanner from './RickBanner';
 import Footer from './Footer';
 import Contract from './Contract';
+import About from './About';
+import PlayFred from './PlayFred';
 
 export const HomePage = () => {
   return (
@@ -23,6 +25,8 @@ export const HomePage = () => {
     <LogoShowcase/>
     <RickBanner/>
     <LogoShowcase/>
+    <About/>
+    {/* <PlayFred/> */}
     <Footer/>
     {/* <Roadmap/> */}
     </Suspense>

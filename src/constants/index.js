@@ -266,68 +266,68 @@ const expLogos = [
 const fighters =[
   {
       title: "Fred",
-      description:"Gurds of the mother land",
+      description:"Me when I see a good deal: Here, have ALL my money! 🐟",
       imgUrl:"/images/fish/moneybag.jpg",
   },
   {
       title: "Fred",
-      description:"Gurds of the mother land",
+      description:"Buying FRED vs Not buying FRED 🐟",
       imgUrl:"/images/fish/happy.jpg",
   },
   {
       title: "Fred",
-      description:"Gurds of the mother land",
+      description:"Rock out with my cock out!🐟",
       imgUrl:"/images/fish/RockOut.jpg",
   },
   {
       title: "Fred",
-      description:"Gurds of the Marianne",
+      description:"Peace out fishes! 🐟",
       imgUrl:"/images/fish/yeah.jpg",
   },
   {
       title: "Fred",
-      description:"Gurds of the Amaterasu",
+      description:"Water's warm. Brain,s off. We vibin'. 🐟",
       imgUrl:"/images/fish/weekend.jpg",
   },
   {
       title: "Fred",
-      description:"Gurds of the Hibernia",
+      description:"Overthinking? Nah. I'm under-floating.🐟",
       imgUrl:"/images/fish/what.jpg",
   },
   {
       title: "Fred",
-      description:"Gurds of the Marianne",
+      description:"He's not lost. He's just vibing with friends. 🐟",
       imgUrl:"/images/fish/fred5.jpg",
   },
   {
       title: "Fred",
-      description:"Gurds of the Amaterasu",
+      description:"Stress? Never met her. 🐟",
       imgUrl:"/images/fish/fred3.jpg",
   },
   {
       title: "Fred",
-      description:"Gurds of the Hibernia",
+      description:"Tides gonna tide. I'm just sipping 🐟",
       imgUrl:"/images/fish/fred8.jpg",
   }
-  ,
-  {
-      title: "Fred",
-      description:"Gurds of the Hibernia",
-      imgUrl:"/images/fish/drink.jpg",
-  }
-  ,
-  {
-      title: "Fred",
-      description:"Always Fishing",
-      imgUrl:"/images/fish/fred4.jpg",
-  }
-  ,
-  {
-      title: "Fred",
-      description:"Always Fishing",
-      imgUrl:"/images/fish/fred3.jpg",
-  }
-  ,
+  // ,
+  // {
+  //     title: "Fred",
+  //     description:"Gurds of the Hibernia",
+  //     imgUrl:"/images/fish/drink.jpg",
+  // }
+  // ,
+  // {
+  //     title: "Fred",
+  //     description:"Always Fishing",
+  //     imgUrl:"/images/fish/fred4.jpg",
+  // }
+  // ,
+  // {
+  //     title: "Fred",
+  //     description:"Always Fishing",
+  //     imgUrl:"/images/fish/fred3.jpg",
+  // }
+  // ,
   // {
   //     title: "Agnar's",
   //     description:"Gurds of the Hibernia",
