@@ -15,7 +15,7 @@ const Footer = () => {
 
       <div>
       <p className="text-xs py-2">
-        Contract Address-coming soon..
+        Contract Address-67TJj4kdTbCuUSELaaTzXF8VzMMsQX1En8WJKXZLpump
       </p>
       <p className="text-sm ">
         &copy; {new Date().getFullYear()} All Rights Reserved.
@@ -27,7 +27,7 @@ const Footer = () => {
 
       <div className="mt-2">
                      <div className="social-icon-footer ">
-                       <a href="https://pump.fun/fredfishgame"><img src={dexLogo} alt="xChronialsgame" /></a>
+                       <a href="https://pump.fun/coin/67TJj4kdTbCuUSELaaTzXF8VzMMsQX1En8WJKXZLpump"><img src={dexLogo} alt="xChronialsgame" /></a>
                        <a href="https://x.com/fredfishgame"><img src={xLogo} alt="tchronialsgame" /></a>
                        <a href="https://t.me/fredfishgame"><img src={teleLogo} alt="" /></a>
                      </div>
