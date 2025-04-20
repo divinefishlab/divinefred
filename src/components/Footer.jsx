@@ -15,7 +15,7 @@ const Footer = () => {
 
       <div>
       <p className="text-[8px] py-2">
-        CA-67TJj4kdTbCuUSELaaTzXF8VzMMsQX1En8WJKXZLpump
+        CA-A15ZSsm9xEqXB5wvNFiV9YxKBxR5ZG693o4W9WaPpump
       </p>
       <p className="text-sm ">
         &copy; {new Date().getFullYear()} All Rights Reserved.
