@@ -20,7 +20,7 @@ export const UI = () => {
       </h2>
       )}
 
-        <a href="https://pump.fun/coin/67TJj4kdTbCuUSELaaTzXF8VzMMsQX1En8WJKXZLpump">
+        <a href="https://pump.fun/coin/A15ZSsm9xEqXB5wvNFiV9YxKBxR5ZG693o4W9WaPpump">
         <img src="images/DexLogo.png" className="pointer-events-auto absolute top-8 right-20 w-4 h-4 transition duration-300 hover:scale-110 hover:rotate-5 hover:opacity-80" />
         </a>
 
