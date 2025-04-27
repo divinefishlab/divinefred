@@ -791,7 +791,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   line-height: 1.5em;
   width: 96%;
 }
-
+/*footer start*/
 .social-icon-footer {
   display: inline-block;
   margin-left: 14px;
@@ -829,3 +829,5 @@ transition: 0.3s ease-in-out;
 .social-icon-footer a:hover img {
 filter: brightness(0) saturate(100%) invert(0%) sepia(7%) saturate(98%) hue-rotate(346deg) brightness(95%) contrast(86%);
 }
+
+/*footer end*/
